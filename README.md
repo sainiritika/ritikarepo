@@ -1,2 +1,2 @@
 # ritikarepo
-This is my practie repo
+This is my practice repo
